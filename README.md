@@ -6,8 +6,6 @@ I write code for ocean models and use machine learning to improve how turbulence
 
 You can find out more about me and my research on my personal website: http://aliramadhan.me/
 
-Feel free to reach out to connect on anything weather and climate!
-
 <!--
 **ali-ramadhan/ali-ramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
