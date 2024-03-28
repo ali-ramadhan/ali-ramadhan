@@ -1,22 +1,7 @@
-### Hi, I'm Ali!
+I'm an Applied Scientist at [Afresh](https://www.afresh.com/) working on reducing food waste, a huge contributor to climate change, by using machine learning to help grocery stores optimize their inventory management and ordering decisions.
 
-I am a graduate researcher at MIT working at the intersection of climate science, software engineering, and machine learning.
+Before that I received my PhD in Computational Earth, Atmospheric, and Planetary Sciences from MIT where I worked at the intersection of climate science and scientific machine learning. As part of the [Climate Modeling Alliance](https://clima.caltech.edu/) I developed [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl), a fast and flexible next-generation ocean model written in Julia that runs on GPUs, and used it to train machine learning models of geophysical turbulence and simulate all kinds of fluid dynamics.
 
-I write code for ocean models and use machine learning to improve how turbulence is represented in climate models.
+And before that I received my MS and BS in Physics from the University of Waterloo where I used ultrashort pulse lasers and synchrotrons to make movies of molecular dynamics.
 
-You can find out more about me and my research on my personal website: http://aliramadhan.me/
-
-<!--
-**ali-ramadhan/ali-ramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find out more about me and read my blog/ramblings on my personal website: http://aliramadhan.me/
