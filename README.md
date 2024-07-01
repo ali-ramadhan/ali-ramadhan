@@ -1,4 +1,6 @@
-I'm an Applied Scientist at [Afresh](https://www.afresh.com/) working on reducing food waste, a huge contributor to climate change, by using machine learning to help grocery stores optimize their inventory management and ordering decisions.
+I'm a Computing Scientist and Founding Engineer at [atpdeth MRV](https://www.atdepthmrv.com/) where I'm building the ocean modeling and GPU computing infrastructure needed to monitor ocean-based operations and enable verifiable marine carbon dioxide removal.
+
+Before joining atdepth I was an Applied Scientist at [Afresh](https://www.afresh.com/) working on reducing food waste, a huge contributor to climate change, by using machine learning to help grocery stores optimize their inventory management and ordering decisions.
 
 Before that I received my PhD in Computational Earth, Atmospheric, and Planetary Sciences from MIT where I worked at the intersection of climate science and scientific machine learning. As part of the [Climate Modeling Alliance](https://clima.caltech.edu/) I developed [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl), a fast and flexible next-generation ocean model written in Julia that runs on GPUs, and used it to train machine learning models of geophysical turbulence and simulate all kinds of fluid dynamics.
 
