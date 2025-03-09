@@ -1,4 +1,4 @@
-I'm a Computing Scientist and Founding Engineer at [atpdeth MRV](https://www.atdepthmrv.com/) where I'm building the ocean modeling and GPU computing infrastructure needed to monitor ocean-based operations and enable verifiable marine carbon dioxide removal.
+I'm a Computing Scientist and Founding Engineer at [atpdeth](https://www.atdepthmrv.com/) where I'm building the ocean modeling and GPU computing infrastructure needed to monitor ocean-based operations and enable verifiable marine carbon dioxide removal.
 
 Before joining atdepth I was an Applied Scientist at [Afresh](https://www.afresh.com/) working on reducing food waste, a huge contributor to climate change, by using machine learning to help grocery stores optimize their inventory management and ordering decisions.
 
